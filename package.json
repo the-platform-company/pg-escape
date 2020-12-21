@@ -1,7 +1,7 @@
 {
-  "name": "pg-escape",
-  "version": "0.1.0",
-  "repository": "segmentio/pg-escape",
+  "name": "tpc-pg-escape",
+  "version": "0.1.1",
+  "repository": "the-platform-company/pg-escape",
   "description": "escape postgres queries which do not support stored procedures",
   "keywords": [
     "pg",
